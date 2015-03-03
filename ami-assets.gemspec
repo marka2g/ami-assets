@@ -6,7 +6,7 @@ require 'ami/assets/version'
 Gem::Specification.new do |spec|
   spec.name          = "ami-assets"
   spec.version       = Ami::Assets::VERSION
-  spec.authors       = ["Mark Sadegi"]
+  spec.authors       = ["Mark Sadegi", "Sadan Masroor"]
   spec.email         = ["mark.sadegi@gmail.com"]
   spec.summary       = %q{This is for the AMI assets}
   spec.description   = <<-EOF
